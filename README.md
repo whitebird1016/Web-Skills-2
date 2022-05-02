@@ -1,4 +1,4 @@
-# Web-Skills-with-Shikmamaru(2)
+# Web-Skills(2)
 ![Shikamaru](https://github.com/whitebird1016/Web-Skills-with-Shikmamaru/blob/main/1_HTGSqvOc52yfMwyLhCMjVA.jpeg)
 <h2>Number Skills</h2>
 <h3>1: Arrangement</h3>
